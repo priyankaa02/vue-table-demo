@@ -9,8 +9,8 @@ module.exports = {
   darkMode: false,
   theme: {
     screens: {
-      'mobile': {'max': '550px'},
-    }
+      mobile: { max: "550px" },
+    },
   },
   variants: {
     extend: {},
